@@ -20,7 +20,8 @@ public class MainActivity extends AppCompatActivity
     AfComboBox.Option[] optionsA = new AfComboBox.Option[3];
     AfComboBox.Option[] optionsB = new AfComboBox.Option[4];
 
-    // 当前过滤条件// 当前过滤条件// 当前过滤条件// 当前过滤条件
+
+    // 当前过滤条件2020年3月14日，在哪里见过你
     AfComboBox.Option filter1, filter2;
 
     @Override
