@@ -19,6 +19,7 @@ public class AfComboBox
     final String TAG = "AfComboBox";
 
     // PopupWindow Jack 更新了16.30
+	// 张三更新了 3月15日
     View contentView;
     PopupWindow popupWindow;
 
